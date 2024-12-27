@@ -9,6 +9,8 @@ This is my first participation in AOC since it has been started for 10 years. Th
 
 ## How to use :-
 1) Clone this repository and in any java supported tool like IntelijIdea, you can run the puzzles. </br>
-2) Every Day is a folder. and in Every day the specific input will be of the form text file and saved in 
+2) Every Day is a folder. and in Every day the specific input will be of the form text file and saved in .idea folder.
+3) All you need is to change according to your path in the code and can enjoy puzzles.
+   
 
 

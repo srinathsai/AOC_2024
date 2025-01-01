@@ -12,5 +12,6 @@ This is my first participation in AOC since it has been started for 10 years. Th
 2) Every Day is a folder. and in Every day the specific input will be of the form text file and saved in .idea folder.
 3) All you need is to change according to your path in the code and can enjoy puzzles.
    
-
+## Note :-
+Though there is sample input and one huge input . This one huge input is designed in such a way that it will be passed only if coded in optimal solution.
 
